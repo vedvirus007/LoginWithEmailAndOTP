@@ -1,0 +1,15 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mar {
+    margin: 5%;
+}
