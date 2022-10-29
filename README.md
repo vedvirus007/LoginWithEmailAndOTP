@@ -7,4 +7,4 @@ Import commands to run the project <br />
 ◦ npm i ejs body-parser <br />
 ◦ npm install nodemon <br />
 ◦ nodemon index.js <br />
-The website can be at http://localhost:3000/
+The website can be viewed at http://localhost:3000/
